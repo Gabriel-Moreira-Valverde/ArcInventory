@@ -20,7 +20,7 @@ O ArcInventory é um sistema em desenvolvimento voltado para a verificação, or
 Linguagem: Python 
 💻 Instalação
 # Clone o repositório
-git clone https://github.com/seu-usuario/ArcInventory.git
+git clone https://github.com/Gabriel-Moreira-Valverde/ArcInventory
 
 # Acesse a pasta
 cd ArcInventory
@@ -66,7 +66,7 @@ ArcInventory is a system under development designed for collecting, organizing, 
 
 Language: Python
 💻 Installation
-git clone https://github.com/your-username/ArcInventory.git
+git clone https://github.com/Gabriel-Moreira-Valverde/ArcInventory
 cd ArcInventory
 npm install
 ▶️ Usage
