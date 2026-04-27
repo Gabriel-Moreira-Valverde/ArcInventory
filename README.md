@@ -3,19 +3,21 @@
 O ArcInventory é um sistema em desenvolvimento voltado para a verificação, organização e exportação de informações de máquinas, com foco em praticidade e escalabilidade.
 
 📌 Funcionalidades
+
 🔍 Verificação de informações das máquinas
-  Coleta e exibição de dados relevantes do sistema e hardware.
+Coleta e exibição de dados relevantes do sistema e hardware.
+
 📊 Exportação para planilhas
-  Permite exportar os dados coletados em formatos compatíveis com Excel/CSV.
+Permite exportar os dados coletados em formatos compatíveis com Excel/CSV.
+
 ☁️ Exportação para a nuvem
-  Envio das informações para armazenamento remoto.
+Envio das informações para armazenamento remoto.
+
 🔮 Funcionalidades Futuras
 🌐 Sistema de verificação totalmente em nuvem
 ✏️ Edição de dados diretamente no sistema
 ➕ Adição de informações personalizadas por máquina
 ⚙️ Tecnologias Utilizadas
-
-(Edite conforme o seu projeto)
 
 Linguagem: Python 
 💻 Instalação
@@ -61,8 +63,6 @@ ArcInventory is a system under development designed for collecting, organizing, 
 ✏️ Data editing within the software
 ➕ Custom machine information support
 ⚙️ Technologies
-
-(Edit according to your project)
 
 Language: Python
 💻 Installation
