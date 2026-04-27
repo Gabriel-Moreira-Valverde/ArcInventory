@@ -23,7 +23,7 @@ Linguagem: Python
 git clone https://github.com/Gabriel-Moreira-Valverde/ArcInventory
 
 # Acesse a pasta
-cd ArcInventory
+cd ArcInventory-main
 
 # Instale as dependências
 npm install
@@ -67,7 +67,7 @@ ArcInventory is a system under development designed for collecting, organizing, 
 Language: Python
 💻 Installation
 git clone https://github.com/Gabriel-Moreira-Valverde/ArcInventory
-cd ArcInventory
+cd ArcInventory-main
 npm install
 ▶️ Usage
 npm start
